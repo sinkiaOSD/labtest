@@ -62,7 +62,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `username`, `email`, `phone`, `password`) VALUES
-(6, 'sinkia, 'sinkia', 'sinkiasumona@gmail.com', '+8801722414549', '003'),
+(6, 'sinkia', 'sinkia', 'sinkiasumona@gmail.com', '+8801722414549', '003'),
 (7, 'subrina', 'subrina, 'sjmim@gmail.com', '221864856542', '953'),
 (8, 'noyon', 'noyon', 'noyon@gmail.com', '12121254534', '453'),
 (9, 'liza', 'liza', 'liza@gmail.com', '2324242', 'libhs@gmail.com');
