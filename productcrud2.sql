@@ -40,9 +40,8 @@ CREATE TABLE `product` (
 --
 
 INSERT INTO `product` (`ID`, `Name`, `Description`, `Purchase_price`, `Quantity`) VALUES
-(20, 'alu kalu', 'abc', 23, 423),
-(21, ' kumra ', ' kumra valo ', 405, 15);
-
+(1, 'shampoo', 'silky', 23, 423),
+(2, ' lotion ', 'mosturizing ', 405, 15);
 -- --------------------------------------------------------
 
 --
@@ -63,10 +62,10 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `username`, `email`, `phone`, `password`) VALUES
-(6, 'Ashik Ghosh', 'ashik', 'ashikghosh763@gmail.com', '+8801722432449', '123'),
-(7, 'Shawmitra', 'shawmitra', 'shawmitra@gmail.com', '2322232', '123'),
-(8, 'Shawmitra', 'shawmitra12', 'shawmitra234@gmail.com', '1234', '123'),
-(9, 'Sharif', 'sharif', 'sharif@gmail.com', '2324242', 'sharif@gmail.com');
+(6, 'sinkia, 'sinkia', 'sinkiasumona@gmail.com', '+8801722414549', '003'),
+(7, 'subrina', 'subrina, 'sjmim@gmail.com', '221864856542', '953'),
+(8, 'noyon', 'noyon', 'noyon@gmail.com', '12121254534', '453'),
+(9, 'liza', 'liza', 'liza@gmail.com', '2324242', 'libhs@gmail.com');
 
 --
 -- Indexes for dumped tables
