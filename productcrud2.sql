@@ -62,10 +62,10 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `username`, `email`, `phone`, `password`) VALUES
-(6, 'sinkia', 'sinkia', 'sinkiasumona@gmail.com', '+8801722414549', '003'),
-(7, 'subrina', 'subrina, 'sjmim@gmail.com', '221864856542', '953'),
-(8, 'noyon', 'noyon', 'noyon@gmail.com', '12121254534', '453'),
-(9, 'liza', 'liza', 'liza@gmail.com', '2324242', 'libhs@gmail.com');
+(6, 'sinkia', 'Sinkia', 'sinkia@gmail.com', '+8801722410359', '2053'),
+(7, 'mim', 'mim', 'mim@gmail.com', '2322232', '1113'),
+(8, 'noyon', 'noyon2', 'noyon5@gmail.com', '48534', '8953'),
+(9, 'sumona', 'sumona', 'ss@gmail.com', '2324242', '458');
 
 --
 -- Indexes for dumped tables
